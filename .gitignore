@@ -12,6 +12,7 @@ reports/
 **/allure-results-*/
 **/allure-report-*/
 *.apk
+.idea/
 
 
 
