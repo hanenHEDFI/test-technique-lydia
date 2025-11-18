@@ -1,0 +1,17 @@
+
+target/
+*.iml
+.vscode/
+.allure/
+.idea/
+*.mp4
+screenshots/
+*.png
+allure-results/
+allure-report/
+reports/
+**/allure-results-*/
+**/allure-report-*/
+
+
+
